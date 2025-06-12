@@ -1,7 +1,3 @@
-Awesome! Here's a **clean, beginner-friendly README** you can use for your `crypto-chatbot` repo:
-
----
-
 ## 📊 Crypto Chatbot – Rule-Based Investment Advisor
 
 Welcome to my first **rule-based chatbot**, built using **Python**!
